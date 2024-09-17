@@ -1,2 +1,2 @@
 # verilog-projects
-basic verilog proects for beginners
+basic verilog projects for beginners
